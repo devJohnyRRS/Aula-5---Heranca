@@ -1,0 +1,4 @@
+2) Comente a chamada explícita a super no construtor da classe JogoDeTabuleiro e explique o que acontece.
+
+Ocorre um erro pois o JAVA não consegue encontrar um construtor padrão na classe Jogo, para evitar esse erro seria necessário
+a criação de um construtor padrão (sem parâmetros) na classe Jogo

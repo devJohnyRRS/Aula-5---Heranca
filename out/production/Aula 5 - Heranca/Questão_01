@@ -1,0 +1,5 @@
+1) Comente o construtor da classe Xadrez e explique o que acontece.
+
+Ao comentar um construtor o compilador Java vai automaticamente usar o construtor padrão da classe PAI (JogoDeTabuleiro).
+Isso vai fazer o código resultar em um erro de compilação.
+
